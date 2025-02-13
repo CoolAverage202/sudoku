@@ -1,3 +1,4 @@
+// creating the grid elements
 const grid = document.querySelector(".grid");
 
 for (let i = 0; i < 9; i++) {
